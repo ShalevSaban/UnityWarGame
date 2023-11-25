@@ -1,7 +1,9 @@
 # UnityWarGame
 
 
-
+In this game, the player joins a group of soldiers who move using AI commands in order to protect the base and attack the
+opposing team. <br>
+● Developed in **UNITY** environment using **C#** scripts
 
 
 
